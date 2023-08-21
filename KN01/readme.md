@@ -11,7 +11,7 @@
 ## Zu viel ram als Gast-System
 ![Alt text](ram-more.png)
 
-## Description
+## Erklaehrung
 Die VM ist sozusagen ein Programm, welches auf dem PC lauft. Deshalb kann natuerlich der ram und die cpu nicht die Spezifikationen des PC's (Gast-System) uebertreten. 
 
 
