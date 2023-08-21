@@ -5,13 +5,13 @@
 ## Die CPU mit zu vielen Cores als Gast-System
 ![Alt text](cpu-more.png)
 
-## Weniger ram als Gast-System
+## Weniger RAM als Gast-System
 ![Alt text](ram-less.png)
 
-## Zu viel ram als Gast-System
+## Zu viel RAM als Gast-System
 ![Alt text](ram-more.png)
 
-## Erklaehrung
-Die VM ist sozusagen ein Programm, welches auf dem PC lauft. Deshalb kann natuerlich der ram und die cpu nicht die Spezifikationen des PC's (Gast-System) uebertreten. 
+## Erklärung
+Die VM ist sozusagen ein Programm, welches auf dem PC läuft. Deshalb kann natürlich der RAM und die CPU nicht die Spezifikationen des PCs (Gast-System) übertreten. 
 
 
