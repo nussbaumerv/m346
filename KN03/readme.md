@@ -17,3 +17,8 @@ packages:                               # Zusätzliche Pakete, die installiert w
   - curl                                # Paket: curl
   - wget                                # Paket: wget
 ```
+## B) SSH-Key und Cloud-init
+![which-key-used](https://github.com/nussbaumerv/m346/assets/112619659/f5aa7f0e-8784-4748-8dbf-495f45154eeb)
+![ssh-pem-1](https://github.com/nussbaumerv/m346/assets/112619659/50953e75-a546-4b99-b459-8334973913d5)
+![ssh-pem-2](https://github.com/nussbaumerv/m346/assets/112619659/61bae914-e61b-40bc-97d8-9d82e18a1cd0)
+![cloud-init-log](https://github.com/nussbaumerv/m346/assets/112619659/296ef2c6-f55e-4e68-b4e2-e01d6fde1690)
