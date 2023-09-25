@@ -17,3 +17,22 @@ packages:                               # Zusätzliche Pakete, die installiert w
   - curl                                # Paket: curl
   - wget                                # Paket: wget
 ```
+
+## B)
+![Alt text](ssh-pem-1-1.png)
+![Alt text](ssh-pem-2-1.png)
+![Alt text](which-key-used-1.png)
+![Alt text](cloud-init-log-1.png)
+## C)
+Durchgeführt
+## D)
+### DB-Server
+![Alt text](mysql-1.png)
+![Alt text](telnet-1.png)
+
+### Web-Server
+![Alt text](index-1.png)
+![Alt text](info-1.png)
+![Alt text](mysql-1.png)
+![Alt text](db-1.png)
+![Alt text](adminer-1.png)
