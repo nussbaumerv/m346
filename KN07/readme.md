@@ -7,17 +7,24 @@
 ![Alt text](rehosting-ms.png)
 
 #### Vergleich
-AWS ist günstiger bei Gleicher Dienstleistung wie Azure. Ich peröhnlich würde auch AWS wählen, aber Azure ist auch eine super Option. Bei Azuer würde man auch direkt noch ein 200$ credit zu bekommen. 
+AWS ist günstiger bei gleicher Dienstleistung wie Azure. Ich persönlich würde auch AWS wählen, aber Azure ist auch eine super Option. Bei Azure würde man auch direkt noch ein 200$ credit zu bekommen. 
+
+#### Auswahlen
+Ich habe immer versucht die günstigst mögliche Option zu wählen, welche den Anforderungen entspricht. Die Auswahlen von sowohl AWS als auch Azure stimmen überein, soweit es möglich ist. 
 
 ### 2) Replatforming
 ![Alt text](heroku.png)
+Da Heroku nur begrenzte Möglichkeiten für die Konfiguration. Ich habe immer die Konfiguration gewählt, die mindestens die erwarteten Anforderungen erfüllt. Deshalb ist meine Konfiguration nachmals auch zu gut, als dass sie sein müsste und dadurch sehr teuer.
 
 ### 3) Repurchasing
 ![Alt text](zoho.png)
-14 X 16 = 224$ per month
+14 X 16 = 224$ per Monat
 ![Alt text](sales.png)
-25 X 16 = 400$ per month
+25 X 16 = 400$ per Monat
 
 ## B) Interpretation der Resultate
-
+Der Preisunterschied bei den verschiedenen Optionen ist enorm. <br>
+Der günstigste Service ist das Rehosting bei AWS. <br>
+Das Replatforming von Heroku ist am teuersten. Man muss aber auch sagen, dass ich dort eine bessere Konfiguration, als bei den anderen Optionen ausgewählt habe. Das kommt daher, da man bei Heroku nur begrenzte Auswahlmöglichkeiten hat. <br>
+Ich persönlich würde entweder die Dienstleistung von AWS oder Zoho wählen. <br>
 
