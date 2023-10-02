@@ -35,4 +35,5 @@ Der Preisunterschied bei den verschiedenen Optionen ist enorm. <br>
 Der günstigste Service ist das Rehosting bei AWS. <br>
 Das Replatforming von Heroku ist am teuersten. Man muss aber auch sagen, dass ich dort eine bessere Konfiguration, als bei den anderen Optionen ausgewählt habe. Das kommt daher, da man bei Heroku nur begrenzte Auswahlmöglichkeiten hat. <br>
 Ich persönlich würde entweder die Dienstleistung von AWS oder Zoho wählen. <br>
+Aber wenn man nur eine sagen darf dann sicherlich AWS afgrund den tiefen Preises.
 
