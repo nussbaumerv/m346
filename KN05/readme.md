@@ -5,8 +5,8 @@
 ## B)
 ![Alt text](<Screenshot 2023-11-04 140012.png>)
 
-IP DB: 172.31.64.34
-IP WEB: 172.31.64.60
+IP DB: 172.31.64.34 <br>
+IP WEB: 172.31.64.63
 
 ## C)
 ![Alt text](image-1.png)
