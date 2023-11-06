@@ -27,3 +27,10 @@ Elestic BLock Store -> Volumes -> Volume ID w채hlen -> Auf Modify clicken -> Gr�
 ![Alt text](image-5.png)
 
 ## C) Horizontale Skalierung
+
+![load balancer](image-6.png)
+1. Loadbalancer ->Application Load Balancer -> Felder ausf체llen und VPC, Availability Zones und Security Groupes ausw채hlen.
+2. Listener erstellen mit HTTP port 80 -> Instancen zur Target Group adden
+3. In Loadbalancer neu erstellte Target Group ausw채hlen
+   
+ 

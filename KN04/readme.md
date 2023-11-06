@@ -19,6 +19,6 @@
 | S3  | Warm | Ja |
 
 
-Wenn ein EBS-Volume so eingestellt ist, dass es beim Beenden gelöscht wird, gilt es als nicht persistent, da es so konzipiert ist, dass es automatisch aufgeräumt wird, wenn seine Instanz beendet wird.
+Wenn ein EBS-Volume so eingestellt ist, dass es beim Beenden gelöscht wird, gilt es als nicht persistent, da es so konzipiert ist, dass es automatisch gecleaned wird, wenn die instanz gelöscht wird.
 
-Da ich keine Speichereinstellungen für meinen Bucket geändert habe, wird er die Standard-Speicheroption "warm" haben. Amazon S3-Speicher ist darauf ausgelegt, persistent zu sein. Er repliziert Ihre Daten über mehrere Geräte innerhalb einer Region, was ihn äußerst haltbar und sehr verfügbar macht.
+Da ich keine Speichereinstellungen für meinen Bucket geändert habe, wird er die Standard-Speicheroption "warm" haben. Amazon S3-Speicher ist darauf ausgelegt, persistent zu sein. 
