@@ -19,5 +19,7 @@ Neue Instanz
 1. aws s3api create-bucket --bucket kn09-bucket
 2. aws s3 cp image-to-host.jpg s3://kn09-bucket/
 3. aws ec2 run-instances --image-id ami-0fc5d935ebf8bc3bc --instance-type t2.micro --key-name valentin-2 --subnet-id  subnet-0a433328e77e4ed9f --security-group-ids sg-0d6c9ac5eaf4e5aa4 --user-data file://C:\Source\m346\KN04\cloud-init-web.yaml
+
+Die Automatisierung vereinfacht den Workflow massiv. Vorallem wenn man sehr viele verscheidene Instancen erstelen muss, macht es sehr viel sinn. Es steigert die Effizienz massiv. Ein skript file ist notwendig um alles auszuführen und steigert ausserdem die Effizienz.
    
 ## B) Terraform
