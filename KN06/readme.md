@@ -33,4 +33,5 @@ Elestic BLock Store -> Volumes -> Volume ID wählen -> Auf Modify clicken -> Gr�
 2. Listener erstellen mit HTTP port 80 -> Instancen zur Target Group adden
 3. In Loadbalancer neu erstellte Target Group auswählen
    
- 
+## D) 
+![AS](image-7.png) 
