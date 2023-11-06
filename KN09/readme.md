@@ -23,3 +23,4 @@ Neue Instanz
 Die Automatisierung vereinfacht den Workflow massiv. Vorallem wenn man sehr viele verscheidene Instancen erstelen muss, macht es sehr viel sinn. Es steigert die Effizienz massiv. Ein skript file ist notwendig um alles auszuführen und steigert ausserdem die Effizienz.
    
 ## B) Terraform
+Ich habe mich mit Terraform auseinandergesetzt und habe es erfolgreich installiert. War aber nicht in der Lage alle aufträge zu erledigen.
